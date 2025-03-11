@@ -27,13 +27,11 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
 
 ### To Running the Game
 
-![image](https://github.com/user-attachments/assets/c001e23d-3466-4a90-8449-44b0ecac002c)
-
-
-1. Clone the repository:
+1. Clone the repository **OR** Downlaod The Zip(Shown in the Image):
    ```
    git clone https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing.git
    ```
+![image](https://github.com/user-attachments/assets/c7553458-3beb-49c4-ac25-5c0fb1ef4ba0)
 
 2. Navigate to the project directory:
    ```
