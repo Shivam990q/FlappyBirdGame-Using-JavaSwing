@@ -1,6 +1,6 @@
 # FlappyBirdGame-Using-JavaSwing
 
-![Flappy Bird Game](https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing)
+![Flappy Bird Game] - https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing
 
 A professional implementation of the classic Flappy Bird game using Java Swing, featuring multiple animated themes, a bird customization shop, and smooth gameplay mechanics.
 
