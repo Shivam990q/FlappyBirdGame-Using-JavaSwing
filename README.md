@@ -69,7 +69,7 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Copyright (c) [2025] [Shivam Gupta]. All rights reserved - see the LICENSE file for details.
 
 ## Acknowledgments
 
