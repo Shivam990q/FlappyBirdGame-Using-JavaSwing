@@ -39,14 +39,15 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
    ```
 ![image](https://github.com/user-attachments/assets/077f7301-d8ef-4974-81b2-bcf3b9c4fcb7)
 
-3. Downlaod any zip extracter(7zip, winrar etc.)
+3. Downlaod any zip extracter(7zip, winrar etc.):
    
 ![image](https://github.com/user-attachments/assets/8018b9c9-eadf-40e8-a463-76e919171297)
 
 4. Open that folder and open cmd:
+   
    ![image](https://github.com/user-attachments/assets/0f67f6b0-d323-4776-85f3-995db4422825)
 
-5. Run the game:
+6. Run the game:
    ```
    java -cp . FlappyBird
    ```
