@@ -52,6 +52,9 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
    java -cp . FlappyBird
    ```
 
+![image](https://github.com/user-attachments/assets/7e7f940b-00d9-4e89-823f-14d2f390549b)
+
+
 ## How to Play
 
 - **Controls**:
