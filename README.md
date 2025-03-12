@@ -1,6 +1,7 @@
 # FlappyBirdGame-Using-JavaSwing
 
 [Flappy Bird Game] - https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing
+[![Watch on YouTube](https://img.youtube.com/vi/uYvtBpniwDc/0.jpg)](https://www.youtube.com/watch?v=uYvtBpniwDc)
 
 
 A professional implementation of the classic Flappy Bird game using Java Swing, featuring multiple animated themes, a bird customization shop, and smooth gameplay mechanics.
@@ -23,7 +24,6 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher (JDK) 19, 21, 23...
-- A Java IDE (IntelliJ, Eclipse, or NetBeans recommended)
 
 ### To Running the Game
 
