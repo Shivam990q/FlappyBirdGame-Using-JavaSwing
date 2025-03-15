@@ -2,7 +2,7 @@
 
 [Flappy Bird Game] - https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing
 
-## YouTube ![Game GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1qMTQ1aXVlNGFwazFzdDFteXNjNjd4ZXk2YTFwdGxsMnhxb3E4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Nc3xlO1kGg3S/giphy.gif)
+## YouTube <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="40">
 
 <a href="https://www.youtube.com/watch?v=uYvtBpniwDc">
     <img src="https://img.youtube.com/vi/uYvtBpniwDc/0.jpg" width="800">
