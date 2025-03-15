@@ -14,11 +14,11 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
 ## ✨ Features
 
 - **Multiple Themes**: Play across different beautifully animated environments including:
-  - Cyan Sky
-  - Sunset
-  - Forest
-  - Night
-  - Desert
+  - 🌤️ Cyan Sky
+  - 🌇 Sunset
+  - 🌳 Forest
+  - 🌙 Night
+  - 🏜️ Desert
 - **Bird Customization**: Unlock and switch between different bird skins with unique colors and shapes
 - **Shop System**: In-game store to select different bird appearances
 - **Smooth Gameplay**: Professional physics and collision detection
