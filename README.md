@@ -2,7 +2,7 @@
 
 [Flappy Bird Game] - https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing
 
-[<img src="https://img.youtube.com/vi/uYvtBpniwDc/0.jpg" width="600">](https://www.youtube.com/watch?v=uYvtBpniwDc)
+[<img src="https://img.youtube.com/vi/uYvtBpniwDc/0.jpg" width="900">](https://www.youtube.com/watch?v=uYvtBpniwDc)
 
 
 A professional implementation of the classic Flappy Bird game using Java Swing, featuring multiple animated themes, a bird customization shop, and smooth gameplay mechanics.
