@@ -20,11 +20,12 @@ A professional implementation of the classic Flappy Bird game using Java Swing, 
   - 🌳 Forest
   - 🌙 Night
   - 🏜️ Desert
-- **Bird Customization**: Unlock and switch between different bird skins with unique colors and shapes
-- **Shop System**: In-game store to select different bird appearances
-- **Smooth Gameplay**: Professional physics and collision detection
-- **Score Tracking**: Keep track of your high score across sessions
-- **Pause Functionality**: Pause and resume gameplay anytime
+    
+- **🐦 Bird Customization**: Unlock and switch between different bird skins with unique colors and shapes
+- **🏪 Shop System**: In-game store to select different bird appearances
+- **⚙️ Smooth Gameplay**: Professional physics and collision detection
+- **🎯 Score Tracking**: Keep track of your high score across sessions
+- **⏸️ Pause Functionality**: Pause and resume gameplay anytime
 
 ## Getting Started
 
