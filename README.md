@@ -2,7 +2,7 @@
 
 [Flappy Bird Game] - https://github.com/Shivam990q/FlappyBirdGame-Using-JavaSwing
 
-## YouTube(https://em-content.zobj.net/content/2020/04/05/yt.png)
+## YouTube
 
 <a href="https://www.youtube.com/watch?v=uYvtBpniwDc">
     <img src="https://img.youtube.com/vi/uYvtBpniwDc/0.jpg" width="800">
@@ -11,7 +11,7 @@
 
 A professional implementation of the classic Flappy Bird game using Java Swing, featuring multiple animated themes, a bird customization shop, and smooth gameplay mechanics.
 
-## Features
+## ✨ Features
 
 - **Multiple Themes**: Play across different beautifully animated environments including:
   - Cyan Sky
